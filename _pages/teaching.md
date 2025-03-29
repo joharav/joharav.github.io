@@ -1,9 +1,10 @@
 ---
+layout: single
 title: 'Teaching'
 permalink: /teaching/
-excerpt: ' '
+author_profile: true
 header:
-  overlay_image: /images/miraf.jpeg
+  overlay_image: miraf.jpeg
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 classes: wide
 ---

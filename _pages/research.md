@@ -2,7 +2,7 @@
 layout: single
 title: 'Research'
 permalink: /research/
-excerpt: ' '
+author_profile: true
 header:
   overlay_image: miraf.jpeg
   overlay_filter: 0.1

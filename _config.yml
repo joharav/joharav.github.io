@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Johar Arrieta Vidal"
 title_separator          : "-"
 name                     : &name "Johar Arrieta Vidal"
-description              : &description "Peruvian Economist"
+description              : &description "PhD Candidate in Economics, University of Michigan"
 url                      : https://joharav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joharav/joharav.github.io"
@@ -61,10 +61,10 @@ analytics:
 author:
   name             : "Johar Arrieta Vidal"
   avatar           : "profile.jpg"
-  bio              : "Peruvian Economist. Mainly talking about monetary economics, development, experiments, photography, anime, videogames and soccer."
-  location         : "Lima, Peru"
+  bio              : "PhD Candidate in Economics, University of Michigan"
+  location         : "Ann Arbor, Michigan, USA"
   employer         :
-  email            : "arrietavjg@gmail.com"
+  email            : "joharav@umich.edu"
   github           : "joharav"
   twitter          : "johar_arrieta"
 

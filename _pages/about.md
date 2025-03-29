@@ -12,9 +12,9 @@ redirect_from:
   - /about.html
 ---
 
-** Welcome to my homepage!
+# Welcome to my homepage! #
 
-I am Johar Arrieta Vidal, a PhD Candidate in Economics at the [University of Michigan] (https://lsa.umich.edu/econ). 
+I am Johar Arrieta Vidal, a PhD Candidate in Economics at the [University of Michigan](https://lsa.umich.edu/econ). 
 
 My main research topics are Macroeconomics, Behavioral and International Economics. 
 

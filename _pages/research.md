@@ -1,9 +1,10 @@
 ---
+layout: single
 title: 'Research'
 permalink: /research/
 excerpt: ' '
 header:
-  overlay_image: /images/miraf.jpeg
+  overlay_image: miraf.jpeg
   overlay_filter: 0.1
 classes: wide
 ---

@@ -9,11 +9,11 @@ classes: wide
 ---
 ## Teaching Assistant
 
-### <a href="https://lsa.umich.edu/econ"><i aria-hidden="true"></i></a> University of Michigan
+### [University of Michigan](https://lsa.umich.edu/econ)
 
 * Economics 101 (2023-2025)
 
-### <a href="https://www.up.edu.pe/en/"><i  aria-hidden="true"></i></a> Universidad del Pacífico
+### [Universidad del Pacífico](https://www.up.edu.pe/en/)
 
 * Macroeconomics Field (2017-2022)
 * Intermediate Microeconomics (2018)

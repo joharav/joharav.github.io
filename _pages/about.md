@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my homepage!
+Welcome to my homepage!
 
-I am Johar Arrieta Vidal, I am a Peruvian economist and an Incoming Economics Ph.D. Student at the University of Michigan. 
+I am Johar Arrieta Vidal, a PhD Candidate in Economics at the University of Michigan. 
 
-I am particularly interested in the topic of applied macroeconomics, experimental and behavioral economics, history and development.
+My main research topics are Macroeconomics, Behavioral and International Economics. 
 
-Currently, I am working at the Central Reserve Bank of Peru at the Macroeconomic Modelling Division. 
+Contact me at: joharav[at]umich[dot]edu
 
 ## [Research](research)
 

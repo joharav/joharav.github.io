@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /
-title: "Home"
-subtitle: "PhD Candidate in Economics, University of Michigan"
+title: "Johar Arrieta Vidal"
+description: "PhD Candidate in Economics, University of Michigan"
 author_profile: true
 header:
   overlay_image: miraf.jpeg
@@ -17,4 +17,4 @@ redirect_from:
 
 Contact me at: [joharav@umich.edu](mailto:joharav@umich.edu).
 
-[Click here for my resume.](https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/Resume_JAV.pdf)
+<a href="https://github.com/joharav/joharav.github.io/raw/joharav/assets/files/Resume_JAV.pdf" download>Click here for my resume.</a>

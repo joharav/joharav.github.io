@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Johar Arrieta Vidal"
+title: "Home"
 subtitle: "PhD Candidate in Economics, University of Michigan"
 author_profile: true
 header:
@@ -13,11 +13,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to my homepage! #
-
-I am Johar Arrieta Vidal, a PhD Candidate in Economics at the [University of Michigan](https://lsa.umich.edu/econ). 
-
-# Fields #: Macroeconomics, Behavioral and International Economics. 
+**Fields**: Macroeconomics, Behavioral and International Economics.
 
 Contact me at: [joharav@umich.edu](mailto:joharav@umich.edu).
 

@@ -34,7 +34,7 @@ details > summary::-webkit-details-marker {
 
 * <details>
     <summary><p><a>Chinese New Year, Culture, and Dynamics: The Case of Cherry Picking</a><br>
-    <a href="https://lsa.umich.edu/econ/people/phd-students/mmartink.html"><b>Magdalena Martin</b></a>
+    with <a href="https://lsa.umich.edu/econ/people/phd-students/mmartink.html"><i>Magdalena Martin</i></a>
     </p></summary>    
     <p align="justify"><b>Abstract.-</b> We study...</p>
   </details> 

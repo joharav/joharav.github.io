@@ -22,4 +22,4 @@ Before joining the University of Michigan, I worked at the Central Bank of Peru.
 
 Contact me at: [joharav@umich.edu](mailto:joharav@umich.edu).
 
-<a href="https://github.com/joharav/joharav.github.io/raw/joharav/assets/files/Resume
+<a href="https://github.com/joharav/joharav.github.io/raw/joharav/assets/files/Resume_JAV.pdf" download>Click here for my resume.</a>

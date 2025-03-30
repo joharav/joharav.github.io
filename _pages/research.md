@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_image: miraf.jpeg
   overlay_filter: 0.1
-classes: wide
+classes: full-width
 ---
 
 <html>

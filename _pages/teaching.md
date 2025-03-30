@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_image: miraf.jpeg
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
-classes: wide
+classes: full-width
 ---
 ## Teaching Assistant
 

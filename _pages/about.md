@@ -15,7 +15,7 @@ redirect_from:
 **Fields**: Macroeconomics, Behavioral and International Economics.
 
 <div style="text-align: justify;">
-I am a PhD candidate in Economics at the University of Michigan, I amm studying how households and firms allocate resources in an economy with multiple circulating currencies, utilizing computational and behavioral economic methodologies.
+I am a PhD candidate in Economics at the University of Michigan, I am studying how households and firms allocate resources in an economy with multiple currencies, utilizing computational and behavioral economic methodologies.
 
 <br><br>
 

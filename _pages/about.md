@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Johar Arrieta Vidal\\ PhD Candidate in Economics \\ University of Michigan"
+title: "Johar Arrieta Vidal<br><span style='font-size: 0.9em;'>PhD Candidate in Economics</span><br><span style='font-size: 0.9em;'>University of Michigan</span>"
 author_profile: true
 header:
   overlay_image: miraf.jpeg

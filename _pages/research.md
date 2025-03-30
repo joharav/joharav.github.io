@@ -49,7 +49,16 @@ details > summary::-webkit-details-marker {
       <a href="https://economics.mit.edu/people/phd-students/valeria-morales-vasquez"><i>Valeria Morales Vasquez</i></a> <br>
       <i>Journal of Economic Behavior and Organization,</i> Vol 200, August 2022.
     </summary>
-    <p align="justify"><b>Abstract.-</b> Partial currency substitution typically occurs in small open economies amid economic crises. Often, the foreign currency continues to circulate even after macroeconomic stability returns. Central banks have responded by applying de-dollarization policies. We extend the model in Matsuyama et al. (1993) and implement an experiment to study the effectiveness of two policy instruments: (1) taxes on domestic transactions in foreign currency and (2) a reduction in the storage cost of local currency. We contribute to the theoretical literature by characterizing a new circulation regime for small open economies where agents use the foreign currency solely for international trade and settle domestic transactions exclusively in local currency. Our experimental evidence suggests that both taxes and storage cost reductions can foster de-dollarization as they reduce foreign currency acceptance and reinforce the use of local currency. However, we find that the impact of a reduction in the storage costs of the local currency is more significant and robust. It lowered the acceptance rate of foreign currency by more than 20 percentage points and increased the acceptance of local currency by more than 30 percentage points. On the other hand, the tax policy reduced foreign currency acceptance by a smaller amount and only for encounters with foreign agents.</p>
+    <div style="display: flex; align-items: flex-start; gap: 15px;">
+      <img src="acceptance_rates.jpg" alt="De-dollarization Study" style="width: 150px; height: auto; border-radius: 5px;">
+      <p align="justify"><b>Abstract.-</b> Partial currency substitution typically occurs in small open economies amid and after economic crises. Central banks have responded by applying de-dollarization policies. 
+    
+      We extend the model in Matsuyama et al. (1993) and implement an experiment to study the effectiveness of two policy instruments: (1) taxes on domestic transactions in foreign currency and (2) a reduction in the storage cost of local currency. 
+    
+      We contribute to the theoretical literature by characterizing a new circulation regime for SOE where agents use the foreign currency solely for international trade and settle domestic transactions exclusively in local currency. 
+    
+      Our experimental evidence suggests that both policies can foster de-dollarization as they reduce foreign currency acceptance and reinforce the use of local currency. </p>
+    </div>
   </details>
 
 

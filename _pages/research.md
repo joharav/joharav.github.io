@@ -49,15 +49,12 @@ details > summary::-webkit-details-marker {
       <a href="https://economics.mit.edu/people/phd-students/valeria-morales-vasquez"><i>Valeria Morales Vasquez</i></a> <br>
       <i>Journal of Economic Behavior and Organization,</i> Vol 200, August 2022.
     </summary>
-    <div style="display: flex; align-items: flex-start; gap: 15px;">
-      <img src="/images/acceptance_rates.jpg" alt="De-dollarization Study" style="width: auto; height: auto; border-radius: 5px;">
-      <p align="justify"><b>Abstract.-</b> Partial currency substitution typically occurs in small open economies amid and after economic crises. Central banks have responded by applying de-dollarization policies. 
-    
-      We extend the model in Matsuyama et al. (1993) and implement an experiment to study the effectiveness of two policy instruments: (1) taxes on domestic transactions in foreign currency and (2) a reduction in the storage cost of local currency. 
-    
-      We contribute to the theoretical literature by characterizing a new circulation regime for SOE where agents use the foreign currency solely for international trade and settle domestic transactions exclusively in local currency. 
-    
-      Our experimental evidence suggests that both policies can foster de-dollarization as they reduce foreign currency acceptance and reinforce the use of local currency. </p>
+    <div style="text-align: justify;">
+      <p><b>Abstract.-</b> This study examines de-dollarization policies in small open economies, focusing on two key interventions: taxing domestic transactions in foreign currency and reducing the storage cost of local currency.
+      <br><br>
+       Building on Matsuyama et al. (1993) and experiments, the research identifies a new regime where foreign currency is used only for international trade, while local currency dominates domestic transactions. The findings suggest that both policies effectively promote de-dollarization by reducing foreign currency usage and reinforcing local currency adoption. </p>
+      
+      <img src="/images/acceptance_rates.jpg" alt="De-dollarization Study" style="width: 100%; height: auto; border-radius: 5px; margin-top: 15px;">
     </div>
   </details>
 

@@ -29,7 +29,7 @@ details > summary::-webkit-details-marker {
 
 * <details>
     <summary><a><p>Welfare Effects of Dollar Currency Invoicing: The Case of Durable Goods</p></a></summary>
-    <p align="justify"><b>Abstract.-</b> How does dollar pricing of durable goods impact household welfare in small open economies?</p>
+    <p align="justify"><b>Abstract.-</b> How does dollar pricing of durable goods impact household welfare in small open economies? We study the optimal response of households to durable goods listed in dollars and analyze the welfare implications. We build over the canonical lumpy adjustment model by adding exposure to exchange rate risk. This new decision layer constraints a subset of households, who would have adjusted otherwise. We compute the main moments based on the Uruguayan economy and its dual currency system. </p>
   </details> 
 
 * <details>
@@ -50,7 +50,7 @@ details > summary::-webkit-details-marker {
       <i>Journal of Economic Behavior and Organization,</i> Vol 200, August 2022.
     </summary>
     <div style="display: flex; align-items: flex-start; gap: 15px;">
-      <img src="acceptance_rates.jpg" alt="De-dollarization Study" style="width: 150px; height: auto; border-radius: 5px;">
+      <img src="/images/acceptance_rates.jpg" alt="De-dollarization Study" style="width: 150px; height: auto; border-radius: 5px;">
       <p align="justify"><b>Abstract.-</b> Partial currency substitution typically occurs in small open economies amid and after economic crises. Central banks have responded by applying de-dollarization policies. 
     
       We extend the model in Matsuyama et al. (1993) and implement an experiment to study the effectiveness of two policy instruments: (1) taxes on domestic transactions in foreign currency and (2) a reduction in the storage cost of local currency. 

@@ -50,7 +50,7 @@ details > summary::-webkit-details-marker {
       <i>Journal of Economic Behavior and Organization,</i> Vol 200, August 2022.
     </summary>
     <div style="display: flex; align-items: flex-start; gap: 15px;">
-      <img src="/images/acceptance_rates.jpg" alt="De-dollarization Study" style="width: 150px; height: auto; border-radius: 5px;">
+      <img src="/images/acceptance_rates.jpg" alt="De-dollarization Study" style="width: auto; height: auto; border-radius: 5px;">
       <p align="justify"><b>Abstract.-</b> Partial currency substitution typically occurs in small open economies amid and after economic crises. Central banks have responded by applying de-dollarization policies. 
     
       We extend the model in Matsuyama et al. (1993) and implement an experiment to study the effectiveness of two policy instruments: (1) taxes on domestic transactions in foreign currency and (2) a reduction in the storage cost of local currency. 

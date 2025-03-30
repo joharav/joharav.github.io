@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: false
 header:

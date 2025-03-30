@@ -63,9 +63,11 @@
   padding-top: 1em;
 
   ul {
-    margin: 0;
+    display: flex;
+    justify-content: flex-end; /* Aligns the navigation to the right */
+    list-style: none;
     padding: 0;
-    list-style-type: none;
+    margin: 0;
     font-family: $sans-serif;
   }
 

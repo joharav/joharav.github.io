@@ -17,7 +17,7 @@
 	    margin-left: -100px;
 	    background-color: #fff;
 	    background-color: rgba(255, 255, 255, 0.7);
-	    border-radius: 4px;
+	    border-radius: 0px;
 	    padding: 2px;
 	}
 
@@ -25,6 +25,6 @@
 	    width: 0;
 	    height: 100%;
 	    background-color: #76A6FC;
-	    border-radius: 4px;
+	    border-radius: 0px;
 	}
         

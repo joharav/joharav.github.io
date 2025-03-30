@@ -14,9 +14,9 @@ redirect_from:
 
 **Fields**: Macroeconomics, Behavioral and International Economics.
 
-I am a PhD student broadly interested in Macroeconomics. Currently, I study how household and firms allocate their resources when multiple currencies circulate on the economy. In specific, I study how these pricing patterns affect the aggregate welfare and the effect of stabilization policies using tools from computational and behavioral economics.
+I am a PhD candidate in Economics at the University of Michigan, with a broad interest in Macroeconomics, particularly in how households and firms allocate resources in an economy with multiple circulating currencies. My research focuses on the impact of these pricing dynamics on aggregate welfare and the efficacy of stabilization policies, utilizing computational and behavioral economic methodologies.
 
-Prior to joining Michigan, I worked at the Central Bank of Peru and I received my BA in Economics from Universidad del Pacífico in 2018.
+Before joining the University of Michigan, I worked at the Central Bank of Peru. I earned my BA in Economics from Universidad del Pacífico in 2018.
 
 Contact me at: [joharav@umich.edu](mailto:joharav@umich.edu).
 

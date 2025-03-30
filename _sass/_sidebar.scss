@@ -47,6 +47,9 @@
   img {
     width: 100%;
   }
+
+  float: right; /* Moves the sidebar to the right */
+  margin-left: 20px; /* Optional: Adds spacing between the sidebar and the main content */
 }
 
 .sidebar__right {

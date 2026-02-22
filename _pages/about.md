@@ -27,7 +27,8 @@ redirect_from:
 <div class="compact-links">
   <a href="/assets/files/Resume_JAV.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> ||
   <a href="https://scholar.google.com/citations?user=5XCh-LkAAAAJ&hl=es" target="_blank" rel="noopener">Google Scholar Profile</a> ||
-  <a href="https://authors.repec.org/pro/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a> 
+  <a href="https://authors.repec.org/pro/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a> ||
+  <a href="/coauthors/">Coauthors</a>
 </div>
 
 <p>
@@ -70,5 +71,13 @@ redirect_from:
     <ul>
       <li><em>Journal of Economic Behavior and Organization</em>, 2022</li>
       <li><a href="https://doi.org/10.1016/j.jebo.2022.05.012" target="_blank" rel="noopener">Published version</a> || <a href="https://perueconomics.org/wp-content/uploads/2020/11/WP-172.pdf" target="_blank" rel="noopener">Working paper</a> || <a href="/assets/files/DeDollarization_Policies___SLIDES____UCSC_2020.pdf" target="_blank" rel="noopener">Slides</a></li>
+      <li>
+        <details>
+          <summary>Abstract</summary>
+          <p>This paper studies taxes on foreign-currency transactions and local-currency incentives, showing that both interventions reduce transactional dollarization, with stronger effects from local-currency incentives.</p>
+          <img src="/images/acceptance_rates.jpg" alt="Main figure from de-dollarization paper" style="max-width: 100%; border-radius: 8px; margin: 6px 0 8px;">
+        </details>
+      </li>
+    </ul>
   </li>
 </ul>

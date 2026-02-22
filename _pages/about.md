@@ -27,12 +27,11 @@ redirect_from:
 <div class="compact-links">
   <a href="/assets/files/Resume_JAV.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> ||
   <a href="https://scholar.google.com/citations?user=5XCh-LkAAAAJ&hl=es" target="_blank" rel="noopener">Google Scholar Profile</a> ||
-  <a href="https://authors.repec.org/pro/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a> ||
-  <a href="/coauthors/">Coauthors</a>
+  <a href="https://authors.repec.org/pro/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a> 
 </div>
 
 <p>
-  I am a PhD candidate in Economics at the University of Michigan. My research focuses on how households and firms respond to institutional frictions such as multi-currency pricing and innovation incentives. I combine quantitative macro models with micro data and behavioral methods.   Before Michigan, I worked in the Monetary Policy Division of the Central Bank of Peru and studied Economics at Universidad del Pacífico.
+  I am a PhD candidate in Economics at the University of Michigan. My research focuses on how households and firms respond to institutional frictions such as multi-currency pricing and innovation incentives. Previously, I worked in the Monetary Policy Division of the Central Bank of Peru and studied Economics at Universidad del Pacífico.
 </p>
 
 <hr>
@@ -53,9 +52,6 @@ redirect_from:
 <ul class="compact-list">
   <li>
     <strong>Innovation, Firm Dynamics and the Advanced-Economy Trap: Evidence from German Establishment Data</strong> (with <a href="https://de.linkedin.com/in/jorge-zavala-delgado/es" target="_blank" rel="noopener">Jorge Zavala</a>)
-    <ul>
-      <li>Slides</li>
-    </ul>
   </li>
   <li>
     <strong>Economies of Scope in Transportation and Domestic Trade</strong> (with <a href="https://bcfujiy.github.io/" target="_blank" rel="noopener">Brian C. Fujiy</a>, <a href="https://www.econgaurav.com/" target="_blank" rel="noopener">Gaurav Khanna</a>, and <a href="https://www.linkedin.com/in/brockrowberry" target="_blank" rel="noopener">Brock Rowberry</a>)
@@ -75,11 +71,6 @@ redirect_from:
       <li><em>Journal of Economic Behavior and Organization</em>, 2022</li>
       <li><a href="https://doi.org/10.1016/j.jebo.2022.05.012" target="_blank" rel="noopener">Published version</a> || <a href="https://perueconomics.org/wp-content/uploads/2020/11/WP-172.pdf" target="_blank" rel="noopener">Working paper</a> || <a href="/assets/files/DeDollarization_Policies___SLIDES____UCSC_2020.pdf" target="_blank" rel="noopener">Slides</a></li>
       <li>
-        <details>
-          <summary>Abstract</summary>
-          <p>This paper studies taxes on foreign-currency transactions and local-currency incentives, showing that both interventions reduce transactional dollarization, with stronger effects from local-currency incentives.</p>
-          <img src="/images/acceptance_rates.jpg" alt="Main figure from de-dollarization paper" style="max-width: 100%; border-radius: 8px; margin: 6px 0 8px;">
-        </details>
       </li>
     </ul>
   </li>

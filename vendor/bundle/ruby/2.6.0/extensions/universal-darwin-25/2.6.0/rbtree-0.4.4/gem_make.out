@@ -1,0 +1,324 @@
+current directory: /Users/johargabrielarrietavidal/joharav.github.io/vendor/bundle/ruby/2.6.0/gems/rbtree-0.4.4
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20260222-13178-1d6pvgs.rb extconf.rb
+checking for rb_exec_recursive() in ruby.h... yes
+checking for rb_exec_recursive_paired() in ruby.h... yes
+checking for rb_proc_lambda_p() in ruby.h... yes
+checking for rb_ary_resize() in ruby.h... yes
+checking for rb_obj_hide() in ruby.h... yes
+checking for rb_safe_level() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/johargabrielarrietavidal/joharav.github.io/vendor/bundle/ruby/2.6.0/gems/rbtree-0.4.4
+make "DESTDIR=" clean
+
+current directory: /Users/johargabrielarrietavidal/joharav.github.io/vendor/bundle/ruby/2.6.0/gems/rbtree-0.4.4
+make "DESTDIR="
+compiling dict.c
+compiling rbtree.c
+rbtree.c:1981:14: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1981 |     id_cmp = rb_intern("<=>");
+      |              ^~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+rbtree.c:1981:14: note: '{' token is here
+ 1981 |     id_cmp = rb_intern("<=>");
+      |              ^~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+rbtree.c:1981:14: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1981 |     id_cmp = rb_intern("<=>");
+      |              ^~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+rbtree.c:1981:14: note: ')' token is here
+ 1981 |     id_cmp = rb_intern("<=>");
+      |              ^~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+rbtree.c:1982:15: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1982 |     id_call = rb_intern("call");
+      |               ^~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+rbtree.c:1982:15: note: '{' token is here
+ 1982 |     id_call = rb_intern("call");
+      |               ^~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+rbtree.c:1982:15: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1982 |     id_call = rb_intern("call");
+      |               ^~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+rbtree.c:1982:15: note: ')' token is here
+ 1982 |     id_call = rb_intern("call");
+      |               ^~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+rbtree.c:1983:18: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1983 |     id_default = rb_intern("default");
+      |                  ^~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+rbtree.c:1983:18: note: '{' token is here
+ 1983 |     id_default = rb_intern("default");
+      |                  ^~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+rbtree.c:1983:18: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1983 |     id_default = rb_intern("default");
+      |                  ^~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+rbtree.c:1983:18: note: ')' token is here
+ 1983 |     id_default = rb_intern("default");
+      |                  ^~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+rbtree.c:1984:23: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1984 |     id_flatten_bang = rb_intern("flatten!");
+      |                       ^~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+rbtree.c:1984:23: note: '{' token is here
+ 1984 |     id_flatten_bang = rb_intern("flatten!");
+      |                       ^~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+rbtree.c:1984:23: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1984 |     id_flatten_bang = rb_intern("flatten!");
+      |                       ^~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+rbtree.c:1984:23: note: ')' token is here
+ 1984 |     id_flatten_bang = rb_intern("flatten!");
+      |                       ^~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+rbtree.c:1990:20: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1990 |     id_breakable = rb_intern("breakable");
+      |                    ^~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+rbtree.c:1990:20: note: '{' token is here
+ 1990 |     id_breakable = rb_intern("breakable");
+      |                    ^~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+rbtree.c:1990:20: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1990 |     id_breakable = rb_intern("breakable");
+      |                    ^~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+rbtree.c:1990:20: note: ')' token is here
+ 1990 |     id_breakable = rb_intern("breakable");
+      |                    ^~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+rbtree.c:1991:26: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1991 |     id_comma_breakable = rb_intern("comma_breakable");
+      |                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+rbtree.c:1991:26: note: '{' token is here
+ 1991 |     id_comma_breakable = rb_intern("comma_breakable");
+      |                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+rbtree.c:1991:26: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1991 |     id_comma_breakable = rb_intern("comma_breakable");
+      |                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+rbtree.c:1991:26: note: ')' token is here
+ 1991 |     id_comma_breakable = rb_intern("comma_breakable");
+      |                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+rbtree.c:1992:16: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1992 |     id_group = rb_intern("group");
+      |                ^~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+rbtree.c:1992:16: note: '{' token is here
+ 1992 |     id_group = rb_intern("group");
+      |                ^~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+rbtree.c:1992:16: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1992 |     id_group = rb_intern("group");
+      |                ^~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+rbtree.c:1992:16: note: ')' token is here
+ 1992 |     id_group = rb_intern("group");
+      |                ^~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+rbtree.c:1993:23: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1993 |     id_object_group = rb_intern("object_group");
+      |                       ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+rbtree.c:1993:23: note: '{' token is here
+ 1993 |     id_object_group = rb_intern("object_group");
+      |                       ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+rbtree.c:1993:23: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1993 |     id_object_group = rb_intern("object_group");
+      |                       ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+rbtree.c:1993:23: note: ')' token is here
+ 1993 |     id_object_group = rb_intern("object_group");
+      |                       ^~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+rbtree.c:1994:13: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1994 |     id_pp = rb_intern("pp");
+      |             ^~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+rbtree.c:1994:13: note: '{' token is here
+ 1994 |     id_pp = rb_intern("pp");
+      |             ^~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+rbtree.c:1994:13: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1994 |     id_pp = rb_intern("pp");
+      |             ^~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+rbtree.c:1994:13: note: ')' token is here
+ 1994 |     id_pp = rb_intern("pp");
+      |             ^~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+rbtree.c:1995:15: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1995 |     id_text = rb_intern("text");
+      |               ^~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+rbtree.c:1995:15: note: '{' token is here
+ 1995 |     id_text = rb_intern("text");
+      |               ^~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+rbtree.c:1995:15: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+ 1995 |     id_text = rb_intern("text");
+      |               ^~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+rbtree.c:1995:15: note: ')' token is here
+ 1995 |     id_text = rb_intern("text");
+      |               ^~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+20 warnings generated.
+linking shared-object rbtree.bundle
+ld: warning: search path '/AppleInternal/Library/BuildRoots/4~CG42ugDRrNTwtJ-8GtyT03OOGlHvQq8y7puCpJc/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.3.Internal.sdk/usr/local/lib' not found
+
+current directory: /Users/johargabrielarrietavidal/joharav.github.io/vendor/bundle/ruby/2.6.0/gems/rbtree-0.4.4
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 rbtree.bundle ./.gem.20260222-13178-gbq4jj

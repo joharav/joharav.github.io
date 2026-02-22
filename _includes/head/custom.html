@@ -40,30 +40,56 @@
     text-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
   }
 
-  .research-overview {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 1rem;
-    margin-top: 0.8rem;
-    margin-bottom: 1.2rem;
-  }
-
   .research-card {
-    background: linear-gradient(135deg, rgba(12, 70, 122, 0.07), rgba(12, 122, 88, 0.08));
+    background: linear-gradient(135deg, rgba(12, 70, 122, 0.05), rgba(12, 122, 88, 0.06));
     border: 1px solid rgba(80, 80, 80, 0.2);
     border-radius: 10px;
-    padding: 0.9rem 1rem;
+    padding: 0.8rem 1rem;
+    margin-bottom: 0.8rem;
   }
 
   .research-card h3 {
     margin-top: 0;
-    margin-bottom: 0.55rem;
+    margin-bottom: 0.45rem;
   }
 
   .research-card ul {
     margin-top: 0;
-    margin-bottom: 0.6rem;
+    margin-bottom: 0.3rem;
     padding-left: 1rem;
+  }
+
+  .research-card li {
+    margin-bottom: 0.55rem;
+  }
+
+  .research-stack {
+    margin-top: 0.8rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .project-links {
+    font-size: 0.9rem;
+  }
+
+  .umich-badge-wrap {
+    margin: 0.4rem 0 0.9rem;
+  }
+
+  .umich-badge {
+    display: inline-block;
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+    border: 1px solid #133d6f;
+    background: #00274c;
+    color: #ffcb05 !important;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    text-decoration: none !important;
+  }
+
+  .research-card details > summary {
+    cursor: pointer;
   }
 
   .masthead__inner-wrap {
@@ -72,6 +98,8 @@
   }
 
   .greedy-nav .visible-links {
+    display: flex;
+    align-items: center;
     justify-content: flex-end;
   }
 
@@ -80,13 +108,13 @@
   }
 
   @media (max-width: 900px) {
-    .research-overview {
-      grid-template-columns: 1fr;
-    }
-
     .masthead__inner-wrap {
       padding-left: 0.8rem;
       padding-right: 0.8rem;
+    }
+
+    .research-card {
+      padding: 0.75rem 0.8rem;
     }
   }
 </style>

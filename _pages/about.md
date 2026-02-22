@@ -57,16 +57,16 @@ redirect_from:
 <h2>Work In Progress</h2>
 <ul class="compact-list">
   <li>
-    <strong>Innovation, Firm Dynamics and the Advanced-Economy Trap: Evidence from German Establishment Data</strong> (with Jorge Zavala)
+    <strong>Innovation, Firm Dynamics and the Advanced-Economy Trap: Evidence from German Establishment Data</strong> (with <a href="https://de.linkedin.com/in/jorge-zavala-delgado/es" target="_blank" rel="noopener">Jorge Zavala</a>)
     <ul>
       <li>Slides</li>
     </ul>
   </li>
   <li>
-    <strong>Economies of Scope in Transportation and Domestic Trade</strong> (with Brian C. Fujiy, Gaurav Khanna, and Brock Rowberry)
+    <strong>Economies of Scope in Transportation and Domestic Trade</strong> (with <a href="https://bcfujiy.github.io/" target="_blank" rel="noopener">Brian C. Fujiy</a>, <a href="https://www.econgaurav.com/" target="_blank" rel="noopener">Gaurav Khanna</a>, and <a href="https://www.linkedin.com/in/brockrowberry" target="_blank" rel="noopener">Brock Rowberry</a>)
   </li>
   <li>
-    <strong>Chinese New Year, Culture, and Dynamics: The Case of Cherry Picking</strong> (with Magdalena Martin)
+    <strong>Chinese New Year, Culture, and Dynamics: The Case of Cherry Picking</strong> (with <a href="https://lsa.umich.edu/econ/people/phd-students/mmartink.html" target="_blank" rel="noopener">Magdalena Martin</a>)
   </li>
 </ul>
 
@@ -75,7 +75,7 @@ redirect_from:
 <h2>Publications</h2>
 <ul class="compact-list">
   <li>
-    <strong>Policies for Transactional De-Dollarization: A Laboratory Study</strong> (with David Florian, Kristian Lopez Vargas, and Valeria Morales)
+    <strong>Policies for Transactional De-Dollarization: A Laboratory Study</strong> (with <a href="https://ideas.repec.org/e/pfl145.html" target="_blank" rel="noopener">David Florian</a>, <a href="https://kmlv.github.io/" target="_blank" rel="noopener">Kristian Lopez Vargas</a>, and <a href="https://economics.mit.edu/people/phd-students/valeria-morales-vasquez" target="_blank" rel="noopener">Valeria Morales</a>)
     <ul>
       <li><em>Journal of Economic Behavior and Organization</em>, 2022</li>
       <li><a href="https://doi.org/10.1016/j.jebo.2022.05.012">Published version</a> || Draft || Slides</li>

@@ -27,8 +27,7 @@ redirect_from:
 <div class="compact-links">
   <a href="/assets/files/Resume_JAV.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> ||
   <a href="https://scholar.google.com/citations?user=5XCh-LkAAAAJ&hl=es" target="_blank" rel="noopener">Google Scholar Profile</a> ||
-  <a href="https://authors.repec.org/pro/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a> ||
-  <a href="/coauthors/">Coauthors</a>
+  <a href="https://authors.repec.org/pro/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a>
 </div>
 
 <p>
@@ -59,25 +58,5 @@ redirect_from:
   </li>
   <li>
     <strong>Chinese New Year, Culture, and Dynamics: The Case of Cherry Picking</strong> (with <a href="https://lsa.umich.edu/econ/people/phd-students/mmartink.html" target="_blank" rel="noopener">Magdalena Martin</a>)
-  </li>
-</ul>
-
-<hr>
-
-<h2>Publications</h2>
-<ul class="compact-list">
-  <li>
-    <strong>Policies for Transactional De-Dollarization: A Laboratory Study</strong> (with <a href="https://ideas.repec.org/e/pfl145.html" target="_blank" rel="noopener">David Florian</a>, <a href="https://kmlv.github.io/" target="_blank" rel="noopener">Kristian Lopez Vargas</a>, and <a href="https://economics.mit.edu/people/phd-students/valeria-morales-vasquez" target="_blank" rel="noopener">Valeria Morales</a>)
-    <ul>
-      <li><em>Journal of Economic Behavior and Organization</em>, 2022</li>
-      <li><a href="https://doi.org/10.1016/j.jebo.2022.05.012" target="_blank" rel="noopener">Published version</a> || <a href="https://perueconomics.org/wp-content/uploads/2020/11/WP-172.pdf" target="_blank" rel="noopener">Working paper</a> || <a href="/assets/files/DeDollarization_Policies___SLIDES____UCSC_2020.pdf" target="_blank" rel="noopener">Slides</a></li>
-      <li>
-        <details>
-          <summary>Abstract</summary>
-          <p>This paper studies taxes on foreign-currency transactions and local-currency incentives, showing that both interventions reduce transactional dollarization, with stronger effects from local-currency incentives.</p>
-          <img src="/images/acceptance_rates.jpg" alt="Main figure from de-dollarization paper" style="max-width: 100%; border-radius: 8px; margin: 6px 0 8px;">
-        </details>
-      </li>
-    </ul>
   </li>
 </ul>

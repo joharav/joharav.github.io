@@ -27,11 +27,14 @@ redirect_from:
 <div class="compact-links">
   <a href="/assets/files/Resume_JAV.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> ||
   <a href="https://scholar.google.com/citations?user=5XCh-LkAAAAJ&hl=es" target="_blank" rel="noopener">Google Scholar Profile</a> ||
-  <a href="https://authors.repec.org/pro/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a>
+  <a href="https://authors.repec.org/pro/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a> ||
+  <a href="/coauthors/">Coauthors</a>
 </div>
 
 <p>
-  I am a PhD candidate in Economics at the University of Michigan. My research focuses on how households and firms respond to institutional frictions such as multi-currency pricing and innovation incentives. I combine quantitative macro models with micro data and behavioral methods.
+  I am a PhD candidate in Economics at the University of Michigan. My research focuses on how households and firms respond to institutional frictions such as multi-currency pricing and innovation incentives. 
+  
+  I combine quantitative macro models with micro data and behavioral methods.
 </p>
 
 <p>
@@ -42,9 +45,9 @@ redirect_from:
 <h2 id="research-projects">Working Papers</h2>
 <ul class="compact-list">
   <li>
-    <strong>The Macro Impact of Paying in Dollars in Emerging Economies</strong>
+    <strong>The Macroeconomic Impact of Paying in Dollars in Emerging Economies</strong>
     <ul>
-      <li>Draft available upon request || Slides</li>
+      <li>Draft || Slides</li>
     </ul>
   </li>
 </ul>
@@ -54,22 +57,16 @@ redirect_from:
 <h2>Work In Progress</h2>
 <ul class="compact-list">
   <li>
-    <strong>Economies of Scope in Transportation and Domestic Trade</strong> (with Brian C. Fujiy, Gaurav Khanna, and Brock Rowberry)
+    <strong>Innovation, Firm Dynamics and the Advanced-Economy Trap: Evidence from German Establishment Data</strong> (with Jorge Zavala)
     <ul>
-      <li>Draft available upon request || Slides</li>
+      <li>Slides</li>
     </ul>
   </li>
   <li>
-    <strong>Firm Dynamics and the Advanced-Economy Trap: Evidence from German Establishment Data</strong> (with Jorge Zavala)
-    <ul>
-      <li>Draft available upon request || Slides</li>
-    </ul>
+    <strong>Economies of Scope in Transportation and Domestic Trade</strong> (with Brian C. Fujiy, Gaurav Khanna, and Brock Rowberry)
   </li>
   <li>
     <strong>Chinese New Year, Culture, and Dynamics: The Case of Cherry Picking</strong> (with Magdalena Martin)
-    <ul>
-      <li>Draft available upon request || Slides</li>
-    </ul>
   </li>
 </ul>
 
@@ -81,7 +78,7 @@ redirect_from:
     <strong>Policies for Transactional De-Dollarization: A Laboratory Study</strong> (with David Florian, Kristian Lopez Vargas, and Valeria Morales)
     <ul>
       <li><em>Journal of Economic Behavior and Organization</em>, 2022</li>
-      <li><a href="https://doi.org/10.1016/j.jebo.2022.05.012">Published version</a> || Draft available upon request || Slides</li>
+      <li><a href="https://doi.org/10.1016/j.jebo.2022.05.012">Published version</a> || Draft || Slides</li>
       <li>
         <details>
           <summary>Abstract</summary>

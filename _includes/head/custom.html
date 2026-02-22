@@ -53,6 +53,54 @@
     margin: 0.1rem 0 0.7rem;
   }
 
+  .compact-hero {
+    background: #00274c;
+    color: #ffffff;
+    padding: 0.75rem 0.9rem;
+    border-radius: 8px;
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 0.8rem;
+    align-items: center;
+    margin-top: 0.1rem;
+  }
+
+  .compact-hero img {
+    width: 100px;
+    height: 128px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+
+  .compact-hero h1 {
+    margin: 0;
+    font-size: 1.45rem;
+    line-height: 1.15;
+    color: #ffffff;
+  }
+
+  .compact-hero-sub {
+    margin: 0.25rem 0 0;
+    font-size: 0.98rem;
+    color: #ffcb05;
+  }
+
+  .compact-links {
+    margin: 0.45rem 0;
+  }
+
+  .compact-list > li {
+    margin-bottom: 0.35rem;
+  }
+
+  .compact-list ul {
+    margin-top: 0.15rem;
+  }
+
+  .compact-contact {
+    margin-top: 0.45rem;
+  }
+
   .home-top-photo img {
     width: 120px;
     height: 120px;
@@ -207,6 +255,18 @@
     .home-top {
       grid-template-columns: 1fr;
       gap: 0.55rem;
+    }
+
+    .compact-hero {
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+      text-align: center;
+    }
+
+    .compact-hero img {
+      width: 82px;
+      height: 106px;
+      margin: 0 auto;
     }
 
     .home-top-photo img {

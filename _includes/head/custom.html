@@ -36,8 +36,29 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <style>
+  a {
+    color: #00274c;
+  }
+
+  a:hover,
+  a:focus {
+    color: #1f5ea8;
+  }
+
   .page__hero--overlay .page__title {
     text-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+  }
+
+  .contact-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.8rem 1.2rem;
+    background: #f7f9fc;
+    border: 1px solid rgba(0, 39, 76, 0.18);
+    border-left: 4px solid #ffcb05;
+    border-radius: 8px;
+    padding: 0.8rem 1rem;
+    margin: 0.6rem 0 1rem;
   }
 
   .research-card {
@@ -72,20 +93,30 @@
     font-size: 0.9rem;
   }
 
-  .umich-badge-wrap {
-    margin: 0.4rem 0 0.9rem;
+  .umich-nav-brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #00274c !important;
+    text-decoration: none !important;
   }
 
-  .umich-badge {
-    display: inline-block;
-    padding: 0.3rem 0.6rem;
+  .umich-nav-m {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
     border-radius: 6px;
-    border: 1px solid #133d6f;
     background: #00274c;
-    color: #ffcb05 !important;
+    color: #ffcb05;
     font-weight: 700;
-    letter-spacing: 0.2px;
-    text-decoration: none !important;
+    line-height: 1;
+    border: 1px solid #1f4d80;
+  }
+
+  .umich-nav-text {
+    font-weight: 700;
   }
 
   .research-card details > summary {
@@ -101,10 +132,19 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    width: 100%;
   }
 
   .greedy-nav .visible-links > li.masthead__menu-item--lg {
     margin-right: auto;
+  }
+
+  .greedy-nav .visible-links > li.masthead__menu-item {
+    margin-left: 0.3rem;
+  }
+
+  .sidebar .author__avatar img {
+    max-width: 160px;
   }
 
   @media (max-width: 900px) {
@@ -115,6 +155,14 @@
 
     .research-card {
       padding: 0.75rem 0.8rem;
+    }
+
+    .contact-card {
+      grid-template-columns: 1fr;
+    }
+
+    .umich-nav-text {
+      display: none;
     }
   }
 </style>

@@ -22,10 +22,18 @@ I am a PhD candidate in Economics at the University of Michigan. My research int
 Before Michigan, I worked at the Central Bank of Peru. I earned my BA in Economics from Universidad del Pacifico in 2018.
 </div>
 
-**Contact**: [joharav@umich.edu](mailto:joharav@umich.edu) | Ann Arbor, MI
-
-<div class="umich-badge-wrap">
-  <a class="umich-badge" href="https://lsa.umich.edu/econ">M University of Michigan</a>
+<div class="contact-card">
+  <div>
+    <a href="https://lsa.umich.edu/econ"><strong>University of Michigan</strong></a><br>
+    Department of Economics<br>
+    Lorch Hall, Room 102<br>
+    Ann Arbor, MI 48104
+  </div>
+  <div>
+    <strong>Phone:</strong> +1 (734) 925-8745<br>
+    <strong>Email:</strong> <a href="mailto:joharav@umich.edu">joharav@umich.edu</a><br>
+    <strong>Homepage:</strong> <a href="https://joharav.github.io">joharav.github.io</a>
+  </div>
 </div>
 
 ## Research Projects {#research-projects}

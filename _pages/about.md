@@ -71,7 +71,5 @@ redirect_from:
       <li><em>Journal of Economic Behavior and Organization</em>, 2022</li>
       <li><a href="https://doi.org/10.1016/j.jebo.2022.05.012" target="_blank" rel="noopener">Published version</a> || <a href="https://perueconomics.org/wp-content/uploads/2020/11/WP-172.pdf" target="_blank" rel="noopener">Working paper</a> || <a href="/assets/files/DeDollarization_Policies___SLIDES____UCSC_2020.pdf" target="_blank" rel="noopener">Slides</a></li>
       <li>
-      </li>
-    </ul>
   </li>
 </ul>

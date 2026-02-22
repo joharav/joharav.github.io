@@ -42,11 +42,48 @@
 
   a:hover,
   a:focus {
-    color: #1f5ea8;
+    color: #ffcb05;
+  }
+
+  .home-top {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: 0.9rem;
+    align-items: center;
+    margin: 0.1rem 0 0.7rem;
+  }
+
+  .home-top-photo img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 39, 76, 0.2);
+  }
+
+  .home-top-text h1 {
+    margin: 0 0 0.2rem;
+    font-size: 1.55rem;
+    line-height: 1.2;
+  }
+
+  .home-subtitle {
+    margin: 0 0 0.2rem;
+    font-size: 1rem;
+  }
+
+  .home-fields {
+    margin: 0;
+    font-size: 0.95rem;
   }
 
   .page__hero--overlay .page__title {
     text-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+  }
+
+  .page__title:empty {
+    display: none;
+    margin: 0;
   }
 
   .contact-card {
@@ -165,6 +202,16 @@
 
     .umich-nav-text {
       display: none;
+    }
+
+    .home-top {
+      grid-template-columns: 1fr;
+      gap: 0.55rem;
+    }
+
+    .home-top-photo img {
+      width: 96px;
+      height: 96px;
     }
   }
 </style>

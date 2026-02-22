@@ -35,4 +35,60 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<style>
+  .page__hero--overlay .page__title {
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+  }
+
+  .research-overview {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 0.8rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .research-card {
+    background: linear-gradient(135deg, rgba(12, 70, 122, 0.07), rgba(12, 122, 88, 0.08));
+    border: 1px solid rgba(80, 80, 80, 0.2);
+    border-radius: 10px;
+    padding: 0.9rem 1rem;
+  }
+
+  .research-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.55rem;
+  }
+
+  .research-card ul {
+    margin-top: 0;
+    margin-bottom: 0.6rem;
+    padding-left: 1rem;
+  }
+
+  .masthead__inner-wrap {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+
+  .greedy-nav .visible-links {
+    justify-content: flex-end;
+  }
+
+  .greedy-nav .visible-links > li.masthead__menu-item--lg {
+    margin-right: auto;
+  }
+
+  @media (max-width: 900px) {
+    .research-overview {
+      grid-template-columns: 1fr;
+    }
+
+    .masthead__inner-wrap {
+      padding-left: 0.8rem;
+      padding-right: 0.8rem;
+    }
+  }
+</style>
+
 <!-- end custom head snippets -->

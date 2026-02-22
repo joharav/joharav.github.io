@@ -9,37 +9,21 @@ header:
 classes: full-width
 ---
 
-<html>
-<head>
-<style>
-details > summary {
-  list-style-type: none;
-  cursor: pointer;
-  position: relative;
-  margin-left: 0px;
-}
-details > summary::-webkit-details-marker {
-  display: none;
-}
-</style>
-</head>
-</html>
-
-## **Selected Work in Progress**
+## Work In Progress
 
 * <details>
-    <summary><a><p>Welfare Effects of Dollar Currency Invoicing: The Case of Durable Goods</p></a></summary>
-    <p align="justify"><b>Abstract.-</b> How does dollar pricing of durable goods impact household welfare in small open economies? We study the optimal response of households to durable goods listed in dollars and analyze the welfare implications. We build over the canonical lumpy adjustment model by adding exposure to exchange rate risk. This new decision layer constraints a subset of households, who would have adjusted otherwise. We compute the main moments based on the Uruguayan economy and its dual currency system. </p>
+    <summary><strong>Welfare Effects of Dollar Currency Invoicing: The Case of Durable Goods</strong></summary>
+    <p align="justify">How does dollar pricing of durable goods affect household welfare in small open economies? This project extends a canonical lumpy adjustment framework by adding exchange-rate exposure at the moment of durable replacement. The model generates a new friction: some households delay adjustment because exchange-rate risk raises the effective replacement threshold. I discipline the model with moments from a dual-currency economy and quantify the welfare effects across household types.</p>
   </details> 
 
 * <details>
-    <summary><p><a>Chinese New Year, Culture, and Dynamics: The Case of Cherry Picking</a><br>
+    <summary><strong>Chinese New Year, Culture, and Dynamics: The Case of Cherry Picking</strong><br>
     with <a href="https://lsa.umich.edu/econ/people/phd-students/mmartink.html"><i>Magdalena Martin</i></a>
-    </p></summary>    
-    <p align="justify"><b>Abstract.-</b> We study...</p>
+    </summary>
+    <p align="justify">This project studies how cultural and seasonal shocks shape intertemporal behavior. We focus on cherry-picking dynamics around Chinese New Year and analyze how preferences, timing constraints, and short-run market conditions interact to generate measurable changes in selection behavior.</p>
   </details> 
 
-## **Publications**
+## Publications
 
 * <details>
     <summary>
@@ -59,7 +43,7 @@ details > summary::-webkit-details-marker {
   </details>
 
 
-## **Policy Articles (in Spanish)**
+## Policy Articles (Spanish)
 
 * [Modelo de Proyección Trimestral: Una actualización hasta 2019](https://www.bcrp.gob.pe/docs/Publicaciones/Documentos-de-Trabajo/2022/documento-de-trabajo-011-2022.pdf) \\
   _Banco Central de Reserva del Perú,_ Issue 011, 2022.

@@ -3,7 +3,7 @@ layout: single
 permalink: /
 title: ""
 author_profile: false
-classes: wide
+classes: wide home-full
 redirect_from:
   - /about/
   - /about.html
@@ -37,20 +37,6 @@ redirect_from:
 <p>
   Before Michigan, I worked in the Monetary Policy Division of the Central Bank of Peru and studied Economics at Universidad del Pacífico.
 </p>
-
-<div class="contact-card compact-contact">
-  <div>
-    University of Michigan<br>
-    Department of Economics<br>
-    Lorch Hall, Room 102<br>
-    Ann Arbor, MI 48109
-  </div>
-  <div>
-    <strong>Email:</strong> <a href="mailto:joharav@umich.edu">joharav@umich.edu</a><br>
-    <strong>Homepage:</strong> <a href="https://joharav.github.io">joharav.github.io</a>
-  </div>
-</div>
-
 <hr>
 
 <h2 id="research-projects">Working Papers</h2>
@@ -98,7 +84,7 @@ redirect_from:
       <li><a href="https://doi.org/10.1016/j.jebo.2022.05.012">Published version</a> || Draft available upon request || Slides</li>
       <li>
         <details>
-          <summary>Abstract and figure</summary>
+          <summary>Abstract</summary>
           <p>This paper studies taxes on foreign-currency transactions and local-currency incentives, showing that both interventions reduce transactional dollarization, with stronger effects from local-currency incentives.</p>
           <img src="/images/acceptance_rates.jpg" alt="Main figure from de-dollarization paper" style="max-width: 100%; border-radius: 8px; margin: 6px 0 8px;">
         </details>

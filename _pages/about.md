@@ -29,11 +29,6 @@ redirect_from:
   <a href="https://scholar.google.com/citations?user=5XCh-LkAAAAJ&hl=es" target="_blank" rel="noopener">Google Scholar Profile</a> ||
   <a href="https://authors.repec.org/pro/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a>
 </div>
-
-<p>
-  I am a PhD candidate in Economics at the University of Michigan. My research focuses on how households and firms respond to institutional frictions such as multi-currency pricing and innovation incentives. Previously, I worked in the Monetary Policy Division of the Central Bank of Peru and studied Economics at Universidad del Pacífico.
-</p>
-
 <hr>
 
 <h2 id="research-projects">Working Papers</h2>

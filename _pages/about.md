@@ -28,7 +28,7 @@ redirect_from:
 <div class="compact-links">
   <a href="/assets/files/Resume_JAV.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> ||
   <a href="https://scholar.google.com/citations?user=5XCh-LkAAAAJ&hl=es" target="_blank" rel="noopener">Google Scholar Profile</a> ||
-  <a href="https://ideas.repec.org/f/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a>
+  <a href="https://ideas.repec.org/f/par738.html" target="_blank" rel="noopener">RePEc/IDEAS Profile</a>
 </div>
 <hr>
 

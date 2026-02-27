@@ -4,6 +4,7 @@ permalink: /
 title: ""
 author_profile: false
 classes: wide home-full
+hide_masthead: true
 redirect_from:
   - /about/
   - /about.html
@@ -27,7 +28,7 @@ redirect_from:
 <div class="compact-links">
   <a href="/assets/files/Resume_JAV.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> ||
   <a href="https://scholar.google.com/citations?user=5XCh-LkAAAAJ&hl=es" target="_blank" rel="noopener">Google Scholar Profile</a> ||
-  <a href="https://authors.repec.org/pro/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a>
+  <a href="https://ideas.repec.org/f/par738/" target="_blank" rel="noopener">RePEc/IDEAS Profile</a>
 </div>
 <hr>
 
@@ -72,6 +73,24 @@ redirect_from:
           <img src="/images/acceptance_rates.jpg" alt="Main figure from de-dollarization paper" style="max-width: 100%; border-radius: 8px; margin: 6px 0 8px;">
         </details>
       </li>
+    </ul>
+  </li>
+</ul>
+
+<hr>
+
+<h2>Policy Analysis</h2>
+<ul class="compact-list">
+  <li>
+    <a href="https://www.bcrp.gob.pe/docs/Publicaciones/Documentos-de-Trabajo/2022/documento-de-trabajo-011-2022.pdf" target="_blank" rel="noopener"><strong>Modelo de Proyección Trimestral: Una actualización hasta 2019</strong></a>
+    <ul>
+      <li><em>Banco Central de Reserva del Perú</em>, Issue 011, 2022</li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://www.bcrp.gob.pe/docs/Publicaciones/Revista-Moneda/moneda-187/moneda-187-06.pdf" target="_blank" rel="noopener"><strong>Proyecciones inmediatas y de corto plazo para la actividad económica en tiempos de la pandemia del COVID-19</strong></a>
+    <ul>
+      <li><em>Revista Moneda</em>, Issue 187, 2021</li>
     </ul>
   </li>
 </ul>

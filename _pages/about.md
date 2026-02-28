@@ -37,7 +37,7 @@ redirect_from:
   <li>
     <strong>The Macroeconomic Impact of Paying in Dollars in Emerging Economies</strong>
     <ul>
-      <li><a href="/assets/files/Draft_JAV.pdf" target="_blank" rel="noopener">Draft</a> || <a href="/assets/files/Macro_lunch_Johar_Arrieta.pdf" target="_blank" rel="noopener">Slides</a></li>
+      <li><a href="/assets/files/March26_draft.pdf" target="_blank" rel="noopener">Draft</a> || <a href="/assets/files/Macro_lunch_Johar_Arrieta.pdf" target="_blank" rel="noopener">Slides</a></li>
     </ul>
   </li>
 </ul>

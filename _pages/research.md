@@ -37,6 +37,7 @@ classes: full-width
       <p><b>Abstract.-</b> This study examines de-dollarization policies in small open economies, focusing on two key interventions: taxing domestic transactions in foreign currency and reducing the storage cost of local currency.
       <br><br>
        Building on Matsuyama et al. (1993) and experiments, the research identifies a new regime where foreign currency is used only for international trade, while local currency dominates domestic transactions. The findings suggest that both policies effectively promote de-dollarization by reducing foreign currency usage and reinforcing local currency adoption. </p>
+      <p><b>Data availability:</b> An anonymized participant-round dataset is available upon request.</p>
       
       <img src="/images/acceptance_rates.jpg" alt="De-dollarization Study" style="width: 100%; height: auto; border-radius: 5px; margin-top: 15px;">
     </div>

@@ -15,3 +15,5 @@ This paper studies two interventions intended to reduce transactional dollarizat
 The results show that both policies increase local-currency usage, with stronger and more robust effects from reducing local-currency storage costs.
 
 [Read the published version](https://doi.org/10.1016/j.jebo.2022.05.012)
+
+**Data availability:** An anonymized participant-round dataset is available upon request.

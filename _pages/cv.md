@@ -13,7 +13,7 @@ redirect_from:
 
 {% include base_path %}
 
-Last updated: February 2026.
+Last updated: May 2026.
 
 [Download CV PDF](/assets/files/Resume_JAV.pdf)
 
@@ -31,12 +31,15 @@ Last updated: February 2026.
 
 ### Working Papers
 
-- **The Macro Impact of Paying in Dollars in Emerging Economies**
-- **Firm Dynamics and the Advanced-Economy Trap: Evidence from German Establishment Data** (with Jorge Zavala)
+- **The Macroeconomic Impact of Paying in Dollars in Emerging Economies**  
+  [Draft](/assets/files/March26_draft.pdf) · [Slides](/assets/files/Macro_lunch_Johar_Arrieta.pdf)
+- **Public Procurement, the Nature of Innovation, and Growth** (with Jorge Zavala)  
+  Work in progress.
 
 ### Work In Progress
 
-- **Economies of Scope in Transportation and Domestic Trade** (with Brian C. Fujiy, Gaurav Khanna, and Brock Rowberry)
+- **Economies of Scope in Transportation and Domestic Trade** (with Brian C. Fujiy, Gaurav Khanna, and Brock Rowberry)  
+  Work in progress.
 
 ### Publication
 
@@ -52,7 +55,7 @@ Last updated: February 2026.
 ## Presentations
 
 - PhD Economic Virtual Seminar (virtual), 2026
-- University of Michigan, Macro-International Seminar / H2D2 Workshop (Ann Arbor), 2024-2025
+- University of Michigan, Macro-International Seminar; H2D2 Workshop (Ann Arbor), 2024-2025
 - Ronald Coase Institute, Workshop on Institutional Analysis (virtual), 2021
 - University of California Santa Cruz, Experimental Workshop (virtual), 2020
 - Central Reserve Bank of Peru, Economic Meetings (Peru), 2018-2019
@@ -68,11 +71,6 @@ Last updated: February 2026.
 ## Employment
 
 - Central Reserve Bank of Peru, Monetary Policy and Macroeconomic Modelling Unit (2018-2022)
-
-## PhD Coursework (selected)
-
-- Core: Microeconomics I-IV; Macroeconomics I-IV; Econometrics I-II
-- Field: Macroeconomics, International Economics, Computational, Time Series Econometrics
 
 ## Additional Information
 

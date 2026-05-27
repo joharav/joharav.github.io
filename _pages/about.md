@@ -56,7 +56,7 @@ redirect_from:
 <h2>Work In Progress</h2>
 <ul class="compact-list">
   <li>
-    <strong>Innovation, Firm Dynamics and the Advanced-Economy Trap: Evidence from German Establishment Data</strong> (with <a href="https://de.linkedin.com/in/jorge-zavala-delgado/es" target="_blank" rel="noopener">Jorge Zavala</a>)
+    <strong>Public Procurement, the Nature of Innovation, and Growth</strong> (with <a href="https://de.linkedin.com/in/jorge-zavala-delgado/es" target="_blank" rel="noopener">Jorge Zavala</a>)
     <details class="project-abstract">
       <summary>Abstract</summary>
       <p>German R&D spending remains steady while fewer firms introduce novel products. We study whether public procurement helps explain this divergence using German firm-level innovation and procurement data. We extend a standard heterogeneous-firm endogenous-growth model to allow firms to choose the composition of innovation. Procurement narrows the payoff to novel innovations and shifts effort toward incremental activity. The results suggest that contract design shapes the nature of innovation, not only the level of public support.</p>

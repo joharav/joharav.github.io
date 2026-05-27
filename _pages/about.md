@@ -36,7 +36,10 @@ redirect_from:
 <ul class="compact-list">
   <li>
     <strong>The Macroeconomic Impact of Paying in Dollars in Emerging Economies</strong>
-    <p class="project-abstract">This paper studies how widespread dollar payments shape macroeconomic outcomes in emerging economies. I build and discipline a quantitative framework for a dual-currency economy to measure how dollar payment frictions affect households, firms, and aggregate adjustment.</p>
+    <details class="project-abstract">
+      <summary>Abstract</summary>
+      <p>In partially dollarized emerging economies, households earn in local currency but save in dollars, while major durables such as housing and vehicles are also dollar-priced. This denomination appears welfare-improving: dollar savings and durable replacement costs appreciate with the exchange rate, providing a natural hedge. I develop and estimate a quantitative heterogeneous-agent model with lumpy durable adjustment and portfolio choice using Uruguayan microdata. Switching to local-currency pricing or restricting dollar access would, in my model, result in meaningfully sized welfare losses.</p>
+    </details>
     <ul>
       <li class="no-bullet">
         <div class="link-chips project-links" aria-label="Working paper links">
@@ -54,16 +57,24 @@ redirect_from:
 <ul class="compact-list">
   <li>
     <strong>Innovation, Firm Dynamics and the Advanced-Economy Trap: Evidence from German Establishment Data</strong> (with <a href="https://de.linkedin.com/in/jorge-zavala-delgado/es" target="_blank" rel="noopener">Jorge Zavala</a>)
-    <p class="project-abstract">We study how innovation and firm dynamics interact with aggregate productivity growth in advanced economies. The project uses German establishment data to examine whether barriers to reallocation and innovation can help explain persistent growth slowdowns.</p>
+    <details class="project-abstract">
+      <summary>Abstract</summary>
+      <p>German R&D spending remains steady while fewer firms introduce novel products. We study whether public procurement helps explain this divergence using German firm-level innovation and procurement data. We extend a standard heterogeneous-firm endogenous-growth model to allow firms to choose the composition of innovation. Procurement narrows the payoff to novel innovations and shifts effort toward incremental activity. The results suggest that contract design shapes the nature of innovation, not only the level of public support.</p>
+    </details>
   </li>
   <li>
     <strong>Economies of Scope in Transportation and Domestic Trade</strong> (with <a href="https://bcfujiy.github.io/" target="_blank" rel="noopener">Brian C. Fujiy</a>, <a href="https://www.econgaurav.com/" target="_blank" rel="noopener">Gaurav Khanna</a>, and <a href="https://www.linkedin.com/in/brockrowberry" target="_blank" rel="noopener">Brock Rowberry</a>)
-    <p class="project-abstract">This project examines how transportation networks and multi-route operations shape domestic trade. We focus on whether economies of scope in transportation change market access, trade costs, and the distribution of gains across regions.</p>
+    <details class="project-abstract">
+      <summary>Abstract</summary>
+      <p>We study how economies of scope in transportation shape domestic trade and aggregate welfare. Using firm-to-firm transaction data from India with information on transporters, we document how transporters consolidate shipments from distinct sellers and deliver them to nearby destinations. We develop a quantitative trade model in which bilateral trade costs depend on the routing choices of heterogeneous transporters. When transporters profitably group shipments, they improve firms' access to destinations and expand the extensive margin of domestic trade.</p>
+    </details>
   </li>
+<!--
   <li>
     <strong>Chinese New Year, Culture, and Dynamics: The Case of Cherry Picking</strong> (with <a href="https://lsa.umich.edu/econ/people/phd-students/mmartink.html" target="_blank" rel="noopener">Magdalena Martin</a>)
     <p class="project-abstract">We study how cultural and seasonal shocks affect dynamic choice. The project uses cherry-picking behavior around Chinese New Year to measure how timing, expectations, and short-run market conditions shape selection.</p>
   </li>
+-->
 </ul>
 
 <hr>
@@ -85,7 +96,8 @@ redirect_from:
       <li class="no-bullet">
         <details>
           <summary>Abstract</summary>
-          <p>This paper studies taxes on foreign-currency transactions and local-currency incentives, showing that both interventions reduce transactional dollarization, with stronger effects from local-currency incentives.</p>
+          <p>Partial currency substitution typically occurs in small open economies amid economic crises. Often, the foreign currency continues to circulate even after macroeconomic stability returns. Central banks have responded by applying de-dollarization policies. We extend the model in Matsuyama et al. (1993) and implement an experiment to study the effectiveness of two policy instruments: taxes on domestic transactions in foreign currency and a reduction in the storage cost of local currency.</p>
+          <p>We contribute to the theoretical literature by characterizing a new circulation regime for small open economies where agents use the foreign currency solely for international trade and settle domestic transactions exclusively in local currency. Our experimental evidence suggests that both taxes and storage cost reductions can foster de-dollarization by reducing foreign-currency acceptance and reinforcing the use of local currency. The reduction in local-currency storage costs is more significant and robust than the tax policy.</p>
           <img src="/images/acceptance_rates.jpg" alt="Main figure from de-dollarization paper" style="max-width: 100%; border-radius: 8px; margin: 6px 0 8px;">
         </details>
       </li>

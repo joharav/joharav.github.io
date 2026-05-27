@@ -15,18 +15,15 @@ redirect_from:
   <div>
     <h1>Johar Arrieta Vidal</h1>
     <p class="compact-hero-sub">PhD Candidate in Economics — University of Michigan</p>
+    <p class="compact-hero-fields">Macroeconomics · International Economics · Computational Economics</p>
   </div>
 </section>
 
 <hr>
 
-<p>
-  <strong>Fields</strong>: Macroeconomics, International Economics, Computational Economics<br>
-  <strong>Contact</strong>: joharav@umich.edu
-</p>
-
 <div class="link-chips" aria-label="Profile links">
   <a href="/assets/files/Resume_JAV.pdf" target="_blank" rel="noopener">CV</a>
+  <a href="mailto:joharav@umich.edu">Email</a>
   <a href="https://scholar.google.com/citations?user=5XCh-LkAAAAJ&hl=es" target="_blank" rel="noopener">Google Scholar</a>
   <a href="https://ideas.repec.org/f/par738.html" target="_blank" rel="noopener">RePEc</a>
 </div>

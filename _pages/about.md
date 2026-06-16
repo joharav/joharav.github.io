@@ -32,7 +32,7 @@ redirect_from:
 <h2 id="research-projects">Working Papers</h2>
 <ul class="compact-list">
   <li>
-    <strong>Innovation, Firm Dynamics and the Advanced-Economy Trap</strong> (with <a href="https://de.linkedin.com/in/jorge-zavala-delgado/es" target="_blank" rel="noopener">Jorge Zavala</a>)
+    <strong>Public Procurement, the Nature of Innovation, and Growth: Firm-Level Evidence from Germany</strong> (with <a href="https://de.linkedin.com/in/jorge-zavala-delgado/es" target="_blank" rel="noopener">Jorge Zavala</a>)
     <p class="project-abstract">German firms invest in R&amp;D, yet fewer introduce products new to the market. We show that public procurement contributes to this pattern: contracts that reward specification-compliant delivery over frontier novelty redirect innovative effort toward incremental product lines. A one-standard-deviation increase in procurement exposure reduces market-novel product introduction by 0.20 pp and raises existing-product revenue by 0.38 pp. A calibrated quality-ladder growth model implies that redirecting procurement funds to an R&amp;D tax credit raises growth by 12 basis points per year and delivers a welfare gain of 3.2 percent of permanent consumption.</p>
     <ul>
       <li class="no-bullet">

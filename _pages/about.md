@@ -33,7 +33,6 @@ redirect_from:
 <ul class="compact-list">
   <li>
     <strong>Public Procurement, the Nature of Innovation, and Growth: Firm-Level Evidence from Germany</strong> (with <a href="https://de.linkedin.com/in/jorge-zavala-delgado/es" target="_blank" rel="noopener">Jorge Zavala</a>)
-    <p class="project-abstract">German firms invest in R&amp;D, yet fewer introduce products new to the market. We show that public procurement contributes to this pattern: contracts that reward specification-compliant delivery over frontier novelty redirect innovative effort toward incremental product lines. A one-standard-deviation increase in procurement exposure reduces market-novel product introduction by 0.20 pp and raises existing-product revenue by 0.38 pp. A calibrated quality-ladder growth model implies that redirecting procurement funds to an R&amp;D tax credit raises growth by 12 basis points per year and delivers a welfare gain of 3.2 percent of permanent consumption.</p>
     <ul>
       <li class="no-bullet">
         <div class="link-chips project-links" aria-label="Working paper links">
@@ -41,17 +40,28 @@ redirect_from:
           <a href="/assets/files/TurnoverInnovation_slides_June2026.pdf" target="_blank" rel="noopener">Slides</a>
         </div>
       </li>
+      <li class="no-bullet">
+        <details class="project-abstract">
+          <summary>Abstract</summary>
+          <p>German firms invest in R&amp;D, yet fewer introduce products new to the market. Public procurement may contribute to the pattern: contracts that reward specification-compliant delivery over frontier novelty may reduce the payoff to frontier innovation and redirect innovative effort toward incremental product lines. In the data, a one-standard-deviation increase in procurement exposure is associated with a 0.20 percentage-point decline in market-novel product introduction and a 0.38 percentage-point increase in existing-product revenue. Whether such composition shifts slow growth depends on general-equilibrium forces. We build and estimate a quality-ladder endogenous-growth model incorporating this mechanism. Redirecting procurement funds to an R&amp;D tax credit raises growth by 12 basis points per year and delivers a welfare gain of 3.2 percent of permanent consumption.</p>
+        </details>
+      </li>
     </ul>
   </li>
   <li>
     <strong>The Macroeconomic Impact of Paying in Dollars in Emerging Economies</strong>
-    <p class="project-abstract">This paper studies how widespread dollar payments shape macroeconomic outcomes in emerging economies. I build and discipline a quantitative framework for a dual-currency economy to measure how dollar payment frictions affect households, firms, and aggregate adjustment.</p>
     <ul>
       <li class="no-bullet">
         <div class="link-chips project-links" aria-label="Working paper links">
           <a href="/assets/files/March26_draft.pdf" target="_blank" rel="noopener">Draft</a>
           <a href="/assets/files/Macro_lunch_Johar_Arrieta.pdf" target="_blank" rel="noopener">Slides</a>
         </div>
+      </li>
+      <li class="no-bullet">
+        <details class="project-abstract">
+          <summary>Abstract</summary>
+          <p>In partially dollarized emerging economies, households earn in local currency but save in dollars, while major durables such as housing and vehicles are also dollar-priced. This denomination appears welfare-improving: dollar savings and durable replacement costs appreciate with the exchange rate, providing a natural hedge. I develop and estimate a quantitative heterogeneous-agent model with lumpy durable adjustment and portfolio choice using Uruguayan microdata. Switching to local-currency pricing or restricting dollar access would, in my model, result in meaningfully sized welfare losses.</p>
+        </details>
       </li>
     </ul>
   </li>
@@ -63,12 +73,20 @@ redirect_from:
 <ul class="compact-list">
   <li>
     <strong>Economies of Scope in Transportation and Domestic Trade</strong> (with <a href="https://bcfujiy.github.io/" target="_blank" rel="noopener">Brian C. Fujiy</a>, <a href="https://www.econgaurav.com/" target="_blank" rel="noopener">Gaurav Khanna</a>, and <a href="https://www.linkedin.com/in/brockrowberry" target="_blank" rel="noopener">Brock Rowberry</a>)
-    <p class="project-abstract">This project examines how transportation networks and multi-route operations shape domestic trade. We focus on whether economies of scope in transportation change market access, trade costs, and the distribution of gains across regions.</p>
+    <ul>
+      <li class="no-bullet">
+        <details class="project-abstract">
+          <summary>Abstract</summary>
+          <p>We study how economies of scope in transportation shape domestic trade and aggregate welfare. Using firm-to-firm transaction data from India with information on transporters, we document how transporters consolidate shipments from distinct sellers and deliver them to nearby destinations. We develop a quantitative trade model in which bilateral trade costs depend on the routing choices of heterogeneous transporters. When transporters profitably group shipments, they improve firms' access to destinations and expand the extensive margin of domestic trade.</p>
+        </details>
+      </li>
+    </ul>
   </li>
+<!--
   <li>
     <strong>Chinese New Year, Culture, and Dynamics: The Case of Cherry Picking</strong> (with <a href="https://lsa.umich.edu/econ/people/phd-students/mmartink.html" target="_blank" rel="noopener">Magdalena Martin</a>)
-    <p class="project-abstract">We study how cultural and seasonal shocks affect dynamic choice. The project uses cherry-picking behavior around Chinese New Year to measure how timing, expectations, and short-run market conditions shape selection.</p>
   </li>
+-->
 </ul>
 
 <hr>

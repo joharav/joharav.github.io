@@ -3,6 +3,8 @@ layout: single
 title: 'Teaching'
 permalink: /teaching/
 author_profile: false
+sitemap: false
+noindex: true
 header:
   overlay_image: miraf.jpeg
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background

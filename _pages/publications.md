@@ -3,6 +3,8 @@ title: "Publications"
 layout: archive
 permalink: /publications/
 author_profile: yes
+sitemap: false
+noindex: true
 ---
 
 {% if author.googlescholar %}

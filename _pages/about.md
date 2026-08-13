@@ -36,8 +36,8 @@ redirect_from:
     <ul>
       <li class="no-bullet">
         <div class="link-chips project-links" aria-label="Working paper links">
-          <a href="/assets/files/TurnoverInnovation_draft_July2026.pdf" target="_blank" rel="noopener">Draft</a>
-          <a href="/assets/files/TurnoverInnovation_slides_June2026.pdf" target="_blank" rel="noopener">Slides</a>
+          <a href="/assets/files/TurnoverInnovation_draft_Aug2026.pdf" target="_blank" rel="noopener">Draft</a>
+          <a href="/assets/files/TurnoverInnovation_slides_Sep2026.pdf" target="_blank" rel="noopener">Slides</a>
         </div>
       </li>
       <li class="no-bullet">

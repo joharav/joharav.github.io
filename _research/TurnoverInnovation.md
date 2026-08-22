@@ -3,7 +3,7 @@ title: "Public Procurement, the Nature of Innovation, and Growth: Firm-Level Evi
 collection: research
 permalink: /research/TurnoverInnovation
 excerpt: ""
-date: 2026-08-14
+date: 2026-08-22
 venue: "Working Paper"
 paperurl: "/assets/files/TurnoverInnovation_draft_Aug2026.pdf"
 citation: "Arrieta Vidal, Johar and Zavala, Jorge (2026). Public Procurement, the Nature of Innovation, and Growth: Firm-Level Evidence from Germany. Working Paper."

@@ -72,6 +72,9 @@ redirect_from:
 <h2>Work In Progress</h2>
 <ul class="compact-list">
   <li>
+    <strong>Targeted Labor Flexibility and Firm Dynamics: German Establishment Evidence</strong>
+  </li>
+  <li>
     <strong>Economies of Scope in Transportation and Domestic Trade</strong> (with <a href="https://bcfujiy.github.io/" target="_blank" rel="noopener">Brian C. Fujiy</a>, <a href="https://www.econgaurav.com/" target="_blank" rel="noopener">Gaurav Khanna</a>, and <a href="https://www.linkedin.com/in/brockrowberry" target="_blank" rel="noopener">Brock Rowberry</a>)
     <ul>
       <li class="no-bullet">

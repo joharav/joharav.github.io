@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <section class="compact-hero">
-  <img src="/images/profile.jpg" alt="Johar Arrieta Vidal">
+  <img src="/images/Warm%20Professional%20Portrait.png" alt="Johar Arrieta Vidal">
   <div>
     <h1>Johar Arrieta Vidal</h1>
     <p class="compact-hero-sub">PhD Candidate in Economics — University of Michigan</p>

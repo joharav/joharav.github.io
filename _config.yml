@@ -14,6 +14,7 @@ description              : &description "PhD Candidate in Economics, University 
 url                      : https://joharav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joharav/joharav.github.io"
+google_site_verification : "TcQRGXaz111ZtRtiPPU2VeUSAnJLNAUv3xalw8XNcCU"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

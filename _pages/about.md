@@ -5,9 +5,6 @@ title: ""
 author_profile: false
 classes: wide home-full
 hide_masthead: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 <section class="compact-hero">

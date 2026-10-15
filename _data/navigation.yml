@@ -1,13 +1,7 @@
-# main links links
+# Only current homepage anchors and downloads.
 main:
   - title: "Projects"
     url: /#research-projects
 
-  - title: "Research"
-    url: /research/  
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "CV"
-    url: /cv/
+    url: /assets/files/Resume_JAV.pdf

@@ -33,7 +33,7 @@ hide_masthead: true
     <ul>
       <li class="no-bullet">
         <div class="link-chips project-links" aria-label="Working paper links">
-          <a href="/assets/files/TurnoverInnovation_draft_Aug2026.pdf" target="_blank" rel="noopener">Draft</a>
+          <a href="/assets/files/TurnoverInnovation_draft_Oct2026.pdf" target="_blank" rel="noopener">Draft</a>
           <a href="/assets/files/TurnoverInnovation_slides_Sep2026.pdf" target="_blank" rel="noopener">Slides</a>
         </div>
       </li>

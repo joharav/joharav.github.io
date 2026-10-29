@@ -12,7 +12,7 @@ hide_masthead: true
   <div>
     <h1>Johar Arrieta Vidal</h1>
     <p class="compact-hero-sub">PhD Candidate in Economics — University of Michigan</p>
-    <p class="compact-hero-fields">Macroeconomics · International Economics · Computational Economics</p>
+    <p class="compact-hero-fields">Macroeconomics · International Economics</p>
   </div>
 </section>
 

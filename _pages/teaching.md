@@ -11,11 +11,18 @@ header:
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 classes: full-width
 ---
+## Guest Lecturer
+
+### [University of Michigan](https://lsa.umich.edu/econ)
+
+* Economic Growth (2026)
+
 ## Teaching Assistant
 
 ### [University of Michigan](https://lsa.umich.edu/econ)
 
 * Economics 101 (2023-2025)
+* Economic Growth (2026)
 
 ### [Universidad del Pacífico](https://www.up.edu.pe/en/)
 

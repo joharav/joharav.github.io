@@ -14,6 +14,6 @@ classes: full-width
 
 {% include base_path %}
 
-Last updated: May 2026.
+Last updated: October 2026.
 
 [Download CV PDF](/assets/files/Resume_JAV.pdf)

@@ -118,6 +118,24 @@ hide_masthead: true
 
 <hr>
 
+<h2>Discussions</h2>
+<ul class="compact-list">
+  <li>
+    <strong>High Risk, High Reward? How Evaluation Architecture Shapes Research Funding</strong>
+    <ul>
+      <li>By Cindy Lopes-Bento, Christoph Grimpe, and Lakshya Katariya.</li>
+      <li>11th ZEW Conference on the Economics of Innovation and Patenting, Mannheim, November 5, 2026.</li>
+      <li class="no-bullet">
+        <div class="link-chips project-links" aria-label="Discussion links">
+          <a href="/assets/files/discussion_grimpe_zew_nov2026.pdf" target="_blank" rel="noopener">Discussion slides</a>
+        </div>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<hr>
+
 <h2>Policy Analysis</h2>
 <ul class="compact-list">
   <li>
